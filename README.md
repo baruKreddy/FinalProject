@@ -65,7 +65,29 @@ The server will start running on `http://localhost:8000` by default.
 - **Retrieve Order**: `GET /items/{item_id}`
 - **Delete Customer**: `Delete /items/{item_id}`
 
+### API Examples
 
+#### Create Order
+
+**Request:**
+```http
+POST /orders HTTP/1.1
+Host: localhost:8000
+Content-Type: application/json
+
+{
+  "timestamp": 1702219784,
+  "name": "Baru",
+  "phone": "732-555-5678",
+  "items": [
+    {
+      "name": "Dosa",
+      "price": 5.99
+    }
+  ]
+  "notes": "Special instructions for the order"
+}
+```
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
