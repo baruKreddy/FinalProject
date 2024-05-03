@@ -100,4 +100,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to customize the README.md according to your project's specific details and requirements.
