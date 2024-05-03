@@ -61,9 +61,9 @@ The server will start running on `http://localhost:8000` by default.
 - **Retrieve Customer**: `GET /customers/{customer_id}`
 - **Delete Customer**: `DELETE /customers/{customer_id}`
 - **Create Item**: `POST /items`
-- **Update Order**: `PUT /items/{item_id}`
-- **Retrieve Order**: `GET /items/{item_id}`
-- **Delete Customer**: `Delete /items/{item_id}`
+- **Update Item**: `PUT /items/{item_id}`
+- **Retrieve Item**: `GET /items/{item_id}`
+- **Delete Item**: `Delete /items/{item_id}`
 
 ### API Examples
 
