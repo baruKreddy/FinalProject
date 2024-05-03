@@ -88,6 +88,12 @@ Content-Type: application/json
   "notes": "Special instructions for the order"
 }
 ```
+
+### API Documentation
+
+For more details and to interact with the API, visit the [API documentation](http://127.0.0.1:8000/docs#/).
+
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
