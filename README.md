@@ -32,9 +32,13 @@ The project is built using Python and SQLite database. It utilizes the FastAPI f
 1. Clone the repository:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/baruKreddy/FinalProject.git
     ```
+2. Install dependencies:
 
+    ```bash
+    pip install fastapi==0.70.0 sqlite==3.36.0 pydantic==1.9.0
+    ```
 
 ### Running the Server
 
