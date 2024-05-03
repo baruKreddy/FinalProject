@@ -1,4 +1,4 @@
-# Dosa Restaurent Editor
+# Dosa Restaurant Editor
 
 ## Overview
 
