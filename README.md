@@ -2,7 +2,7 @@ Certainly! Below is a template for a README.md file for your project:
 
 ---
 
-# Project Name
+# Dosa Restaurent Editor
 
 ## Overview
 
