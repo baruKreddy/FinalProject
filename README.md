@@ -1,7 +1,3 @@
-Certainly! Below is a template for a README.md file for your project:
-
----
-
 # Dosa Restaurent Editor
 
 ## Overview
